@@ -1,0 +1,2 @@
+copy *.bak *.rec
+cch

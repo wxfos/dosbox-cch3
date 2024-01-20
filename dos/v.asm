@@ -1,0 +1,8 @@
+org 0x100
+bits 16
+start:
+    mov ax, 0x4f02
+    mov bx, 0x4118
+    int 0x10
+    int 0x20
+
